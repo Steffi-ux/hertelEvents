@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083174919823",
+    "project_id": "herteleventapp",
+    "storage_bucket": "herteleventapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083174919823:android:abb0d47998becb4d625afa",
+        "android_client_info": {
+          "package_name": "com.example.HertelEventApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083174919823-p9n3lq1nd4ghsglistept0qjv1t5r308.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtd_dZEcjeit0ZsvaDxWzZ8NOVXJdUkAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083174919823-p9n3lq1nd4ghsglistept0qjv1t5r308.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
